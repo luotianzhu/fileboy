@@ -1,4 +1,4 @@
-module fileboy
+module github.com/luotianzhu/fileboy
 
 go 1.13
 
